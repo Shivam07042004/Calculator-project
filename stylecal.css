@@ -39,6 +39,7 @@
     background-color: white;
     color:black;
     font-size: 36px;
+    word-wrap: break-word;
 }
 
 .operations
